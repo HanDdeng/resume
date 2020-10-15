@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 10px 0 10px 5px;
+}
+header {
+    width: 1177px;
+    height: 70px;
+    background-color: #808080;
+    color: #fff;
+}
+h1 {
+    margin: 0;
+    padding-left: 30px;
+    line-height: 70px;
+}
+/* main样式 */
+main {
+    border: 1px solid #d3d3d3;
+    border-top: 0;
+}
+main > div {
+    height: 140px;
+    width: 1177px;
+    border-top: 1px solid #d3d3d3;
+}
+h2 {
+    float: left;
+    margin: 0;
+    margin-right: 10px;
+    width: 139px;
+    height: 139px;
+    line-height: 139px;
+    text-align: center;
+    background-color: #d3d3d3;
+}
+p {
+    margin: 0 ;
+    padding-top: 15px;
+}
+.basic-infor{
+    border-top: 0;
+}
